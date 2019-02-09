@@ -1,6 +1,6 @@
 # Face API - Emotion Recognition Sample
 
-<p align="center"><img alt="" src="https://github.com/aaronchong888/Azure-Face-EmotionRecognition/blob/master/screenshot.png" width="50%"></p>
+<p align="center"><img alt="" src="https://github.com/aaronchong888/Azure-Face-EmotionRecognition/blob/master/screenshot.png" width="70%"></p>
 
 ## Description
 
