@@ -34,8 +34,14 @@ npm install
 
 [Microsoft Cognitive Services - Face API]: https://azure.microsoft.com/en-us/try/cognitive-services/?api=face-api
 
+### Deployment
+
+- [Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-nodejs) 
+
 ## Credits
 
+* **jQuery** - *1.12.4* - [jQuery](https://jquery.com/)
+* **Bootstrap** - *3.3.7* - [Bootstrap](https://getbootstrap.com/docs/3.3/)
 * **Fine Uploader** - *JavaScript file upload library* - [fine-uploader](https://github.com/FineUploader/fine-uploader)
 
 ## Contributors
